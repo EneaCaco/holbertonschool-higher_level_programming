@@ -1,3 +1,3 @@
-number = 123
+number = 98
 print(f"{number} Battery street")
      
